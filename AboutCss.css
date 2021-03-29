@@ -1,0 +1,93 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	background-color: white;
+	box-sizing: border-box;
+
+}
+
+header{
+	width: 100%;
+	height:60px;
+	background-color:black;
+    border-bottom: 2px dashed white;
+	display:block;
+	z-index: 100000;
+	text-align: center;
+}
+#icon{
+	position: absolute;
+	padding: 0.1%;
+	margin-left: 42%;
+	margin-right: 42%;
+	margin-top: 0.5%;
+	margin-bottom: 0.5%;
+	font-family: 'Roboto Mono', monospace;
+	color:white;
+	border:3px dotted white;
+	border-radius: 7px;
+	background-color: black;
+
+}
+h2:hover{
+  cursor: pointer;
+
+}
+
+span{
+	color: red;
+	background-color: black;
+}
+
+.head2{
+    width: 100%;
+}
+#name{
+	display: inline;
+	position: absolute;
+margin-left: 1%;
+margin-top: 12%;
+font-family: "Open Sans";
+}
+#me{
+	width: 22%;
+	margin-left: 22%;
+	margin-top: 1%;
+	border-radius: 12px;
+	border: 2px dashed #6a6565;
+}
+hr{
+	margin-top: 3% ;
+	position: relative;
+margin-left: 12%;
+margin-right: 12%;
+margin-bottom: 3%;
+}
+
+.profile{
+	margin-left: 12%;
+	margin-right: 12%;
+}
+.titles{
+	color: #424242;
+	margin-top: 2%;
+	margin-bottom: 1%;
+}
+
+ul{
+	list-style: none;
+	margin-left: 12%;
+}
+li{
+	margin-top: 12px;
+	background: #F9F9F9;
+border-left: 10px solid #CCC;
+margin: 1.5em 10px;
+padding: 0.5em 10px;
+font-family: monospace;
+font-size: 15px;
+}
+h3{
+	color: #6a6a6a;
+}
+
