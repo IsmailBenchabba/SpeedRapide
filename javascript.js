@@ -37,7 +37,7 @@ function next(direction){
 
  function main_page(){
 	   
-	window.open("https://determined-minsky-7ae0c1.netlify.app/");
+	window.open("https://ismailbenchabba.github.io/SpeedRapide/");
  }
 
  var slideIndex = 0;
